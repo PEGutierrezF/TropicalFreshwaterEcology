@@ -1,0 +1,59 @@
+---
+title: "About"
+output:
+  html_document:
+    self_contained: false
+---
+
+# Pablo E. Gutiérrez-Fonseca, PhD
+
+My research interest is focused on tropical stream ecology, assessing stream dynamics in forested and urban areas. I use a variety of approaches including broad-scale geographic studies, long-term temporal variability, and multiple taxonomic groups to understand how climatic phenomena (i.e., drought, ENSO, hurricanes) impact aquatic ecosystems.
+
+My research on freshwater ecosystems integrates the social, political, and economic realities faced by the diversity of users of this invaluable resource. To achieve these broad aims, I maintain a variety of national and international partnerships across agencies and institutions, including governmental, local, regional, and international non-governmental organizations and universities.
+
+![Pablo E. Gutiérrez-Fonseca]({{ "/assets/img/Profile.jpg" | relative_url }})
+
+---
+
+## Contact
+
+**Department of Biology**  
+**University of Puerto Rico**  
+Mayagüez, Puerto Rico
+
+**Email:** pabloe.gutierrezfonseca [at] gmail.com
+
+### Profiles
+
+- [ORCID](https://orcid.org/0000-0003-0777-8889)
+- [Google Scholar](https://scholar.google.com.pr/citations?hl=en&authuser=1&user=wuimcbkAAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Pablo_Gutierrez-Fonseca2)
+- [Curriculum Vitae](/TropicalFreshwaterEcology/pages/pdf/CV2021.pdf)
+
+---
+
+## Graduate Students
+
+---
+
+## Alumni and Associates
+
+### Christina Linkem, MSc
+
+**Fulbright Fellow, 2021–2022**
+
+---
+
+## Undergraduates
+
+### Reilly Connelly
+
+**Honors Thesis, 2024–2025**  
+University of Vermont
+
+### Maya Thomson
+
+**Honors Thesis, 2022–2023**  
+University of Vermont
+
+---

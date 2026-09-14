@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+# Tropical Freshwater Ecology
+
+**Pablo E. Gutiérrez-Fonseca**
+
+[Learn more](/TropicalFreshwaterEcology/pages/Research/)
+
+---
+
+## Overview
+
+My research seeks to understand how tropical freshwater ecosystems respond to natural extreme events, but also how anthropogenic activities risk aquatic ecosystem function in the tropics.
+
+I am broadly interested in understanding:
+
+- What is the natural variability of tropical aquatic ecosystems, and how do they respond to extreme climatic events (i.e., ENSO, floods, hurricanes)?
+- What are the effects of urban expansion on aquatic ecosystems?
+
+![Research](../assets/img/RG.jpeg)
+
+---
+
+## News
+
+### New publication on *Hydrobiologia*
+
+**October 21, 2022**
+
+[Publication](https://link.springer.com/article/10.1007/s10750-022-05055-9)
+
+![Hydrobiologia](../assets/img/Hydrobiologia.JPG)
+
+---
+
+### New publication on *Ecology Letters*
+
+**December 1, 2021**
+
+[Publication](https://onlinelibrary.wiley.com/doi/10.1111/ele.13931)
+
+![Ecology Letters](../assets/img/EL.JPG)
+
+---
+
+### Curso de Ecología de Ríos Tropicales
+
+**October 16–17, 2021 — Virtual**
+
+![Curso de Ecología de Ríos Tropicales](../assets/img/News1.JPG)
+
+---
+
+## Events
+
+### Society for Freshwater Science
+
+**May 14–20, 2022**
+
+[Society for Freshwater Science](https://jasm2022.aquaticsocieties.org/)
